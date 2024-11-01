@@ -1,5 +1,7 @@
 # Streaming-Service-Customer-Churn-Prediction
 Streaming Service Customer Churn Prediction using ML algorithms
+![Image Description](https://github.com/bhavinbhatt278/Streaming-Service-Customer-Churn-Prediction/blob/main/image.png)
+
 ##  Business Understanding: Problem Definition
 In today’s highly competitive streaming service industry, retaining customers is essential for
 profitability. High customer acquisition costs make it crucial to predict customer churn and
